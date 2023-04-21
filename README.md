@@ -23,6 +23,12 @@ Thank you for stopping by! :smiley:
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leilatdantas&layout=compact&langs_count=1&theme=nightowl"/>
 </div>
 
+  <div> 
+  <a href="https://instagram.com/leilaticiane" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leilaticiane@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://https://www.linkedin.com/in/leila-dantas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 <!--
 **leilatdantas/leilatdantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
