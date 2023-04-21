@@ -1,4 +1,4 @@
-## Transitioning to Software Developer: A Student's Journey at 42 School :computer:
+## Transitioning to Tech: A Student's Journey at 42 School :computer:
 Hello! :wave:
 
 This repository documents my journey as a student at 42 School, where I'm currently learning C and C++. :nerd_face:
