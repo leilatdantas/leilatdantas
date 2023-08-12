@@ -31,9 +31,11 @@ These repositories contains the projects and assignments that I've completed dur
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/leilatdantas/leilatdantas/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://github.com/leilatdantas">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=leilatdantas&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leilatdantas&layout=compact&langs_count=1&theme=nightowl"/>
+</div>
 
 ###
 
