@@ -33,8 +33,6 @@ These repositories contains the projects and assignments that I've completed dur
 </div>
 
 ###
-
-###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
