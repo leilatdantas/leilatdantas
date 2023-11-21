@@ -1,11 +1,4 @@
 ## Transitioning to Tech: A Student's Coding Voyage 🚀
-
-###
-
-Hello! :wave:
-
-Here I document my journey as a student at 42 Porto, where I'm currently learning C and C++. :nerd_face:
-
 ### About Me :woman_technologist:
 I'm a tech enthusiast who's always been passionate about solving problems, and I'm excited to apply my skills to the world of software development. At 42 School, I'm immersed in a project-based learning and peer-to-peer education model that challenges me to think creatively and work collaboratively.
 
