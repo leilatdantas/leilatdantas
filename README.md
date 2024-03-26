@@ -1,5 +1,5 @@
 ## Transitioning to Tech: A Student's Coding Voyage 🚀
-### About Me :woman_technologist:
+### Hello there, I'm Leila! :woman_technologist:
 🖥️  Software Developer Student @ 42Porto\
 🩺  MSc in Public Health\
 😷  Former Dentist\
@@ -22,8 +22,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leilatdantas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=leilatdantas&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=leilatdantas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leilatdantas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -47,6 +46,7 @@
 ###
 
 <!-- ## Transitioning to Tech: A Student's Journey at 42 School :computer:
+
 
  ### How to Use This Repository :computer_mouse:
 If you're interested in following my journey or checking out the projects I've completed, feel free to browse the repository's folders and files. :eyes:
