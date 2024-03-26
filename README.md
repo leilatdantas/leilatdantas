@@ -1,10 +1,13 @@
 ## Transitioning to Tech: A Student's Coding Voyage 🚀
 ### About Me :woman_technologist:
-I'm a tech enthusiast who's always been passionate about solving problems, and I'm excited to apply my skills to the world of software development. At 42 School, I'm immersed in a project-based learning and peer-to-peer education model that challenges me to think creatively and work collaboratively.
 
-### About the Projects :file_folder:
-These repositories contains the projects and assignments that I've completed during my studies at 42. <!-- Each project is organized by level and language, and each project folder has a detailed README file that outlines the objective, requirements, and implementation details. :open_book: -->
-
+🖥️  Software Developer Student @ 42Porto  
+🩺  MSc in Public Health  
+😷  Former Dentist  
+❤️‍🔥  Passionate about tech  
+🎨  Creative mind  
+🧶📸  Hobbies enthusiast (from crochet to photography)  
+🌟  Always ready for new adventures and challenges  
 
 ###
 <div align="center">
