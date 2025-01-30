@@ -20,7 +20,7 @@
 </div>
 
 
-[![leilatdantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=leilatdantas&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&theme=nightowl)](https://github.com/leilatdantas?tab=repositories) [![leilatdantas's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leilatdantas&count_private=true&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&theme=nightowl)](https://github.com/leilatdantas?tab=repositories)
+[![leilatdantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=leilatdantas&count_private=false&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&theme=nightowl)](https://github.com/leilatdantas?tab=repositories) [![leilatdantas's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leilatdantas&count_private=false&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&theme=nightowl)](https://github.com/leilatdantas?tab=repositories)
 
 ###
 
