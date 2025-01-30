@@ -19,6 +19,7 @@
   <a href="https://www.linkedin.com/in/leila-dantas/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
 </div>
 
+
 [![leilatdantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=leilatdantas&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&theme=nightowl)](https://github.com/leilatdantas?tab=repositories) [![leilatdantas's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leilatdantas&count_private=true&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&theme=nightowl)](https://github.com/leilatdantas?tab=repositories)
 
 ###
