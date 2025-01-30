@@ -8,6 +8,7 @@
 🧶📸  Hobbies enthusiast (from crochet to photography)\
 🌟  Always ready for new adventures and challenges
 
+
 ###
 <div align="center">
     	<a href='https://profile.intra.42.fr/users/lebarbos' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'height="35"/></a>
@@ -23,8 +24,8 @@
 ###
 
 <div align="center">
-    <img src="https://github-readme-stats-leila-dantas-projects.vercel.app/api?username=leilatdantas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-leila-dantas-projects.vercel.app/api/top-langs?username=leilatdantas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats-git-master-leila-dantas-projects.vercel.app/api?username=leilatdantas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-git-master-leila-dantas-projects.vercel.app/api/top-langs?username=leilatdantas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
